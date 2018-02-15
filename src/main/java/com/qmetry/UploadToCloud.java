@@ -2,7 +2,7 @@
  * This class encapsulates the logic of deploying the cucumber result file to QMetry for 
  * JIRA-Cloud.
  * 
- * NO CHANGE NEEDED IN THIS CLASS
+ * NO CHANGE NEEDE IN THIS CLASS
  */
 
 package com.qmetry;
